@@ -5,4 +5,6 @@ Problems can be found here: http://www.ic.unicamp.br/~meidanis/courses/mc336/200
 
 Simply run the SWI interpreter, `consult` the `99.pl` file and you're ready to go!
 
+Note: all predicates are prefixed with `m_` to avoid collisions with the standard library.
+
 ( Still under progress, feel free to contribute solutions :) )
